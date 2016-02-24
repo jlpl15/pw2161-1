@@ -1,0 +1,8 @@
+body
+{
+	background: rgb(255,255,255); /*fondo*/
+	color: #000000;
+	margin: 0 auto ;
+	max-width: 1024px; /*ancho máximo*/ 
+	/*color: hotpink;*/
+}
