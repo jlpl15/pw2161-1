@@ -6,3 +6,42 @@ body
 	max-width: 1024px; /*ancho máximo*/ 
 	/*color: hotpink;*/
 }
+
+header
+{
+	background: blue; /*fondo*/
+	border: 1px solid black; /*alrededor*/
+	border-radius: 5px; /*esquinas*/
+	color: white; /*letra*/
+}
+
+header h1
+{
+	text-align: center;
+}
+
+header nav ul li
+{
+	/*border: 1px solid yellow;*/
+	background: white;
+	border-radius: 5px;
+	color: black;
+	display: inline-block; /*rompe caja*/
+	margin: 0px 50px;
+	padding: 10px;
+}
+header nav ul li:hover /*mouse encima*/
+{
+	background: black;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
